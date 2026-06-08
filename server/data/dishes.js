@@ -1,0 +1,88 @@
+const dishesData = [
+  {
+    id: 1,
+    name: "Truffle Mushroom Risotto",
+    internal_name: "truffle-mushroom-risotto",
+    category: "Main Course",
+    price: 24.99,
+    image: "/public/images/risotto.jpg",
+    description:
+      "Creamy Arborio rice with wild mushrooms, Parmesan, and black truffle oil.",
+    calories: 620,
+    spicyLevel: 0,
+    available: true,
+    rating: 4.8,
+  },
+  {
+    id: 2,
+    name: "Grilled Atlantic Salmon",
+    internal_name: "grilled-atlantic-salmon",
+    category: "Main Course",
+    price: 28.5,
+    image: "/public/images/salmon.jpg",
+    description:
+      "Fresh salmon fillet served with roasted vegetables and lemon butter sauce.",
+    calories: 540,
+    spicyLevel: 0,
+    available: true,
+    rating: 4.9,
+  },
+  {
+    id: 3,
+    name: "Margherita Pizza",
+    internal_name: "margerita-pizza",
+    category: "Pizza",
+    price: 16.99,
+    image: "/public/images/pizza.jpg",
+    description:
+      "Classic pizza with San Marzano tomatoes, mozzarella, and fresh basil.",
+    calories: 780,
+    spicyLevel: 0,
+    available: true,
+    rating: 4.7,
+  },
+  {
+    id: 4,
+    name: "Spicy Chicken Tacos",
+    internal_name: "spicy-chicken-tacos",
+    category: "Mexican",
+    price: 13.99,
+    image: "/public/images/chicken-tacos.jpg",
+    description:
+      "Three soft tacos filled with spicy grilled chicken and fresh salsa.",
+    calories: 490,
+    spicyLevel: 3,
+    available: true,
+    rating: 4.6,
+  },
+  {
+    id: 5,
+    name: "Caesar Salad",
+    internal_name: "caesar-salad",
+    category: "Salad",
+    price: 11.5,
+    image: "/public/images/caesar-salad.jpg",
+    description:
+      "Crisp romaine lettuce, parmesan cheese, croutons, and Caesar dressing.",
+    calories: 320,
+    spicyLevel: 0,
+    available: true,
+    rating: 4.4,
+  },
+  {
+    id: 6,
+    name: "Shrimp Alfredo Pasta",
+    internal_name: "shrimp-alfredo-pasta",
+    category: "Pasta",
+    price: 22.99,
+    image: "/public/images/shrimp-alfredo.jpg",
+    description:
+      "Fettuccine pasta tossed in a creamy Alfredo sauce with grilled shrimp.",
+    calories: 760,
+    spicyLevel: 0,
+    available: true,
+    rating: 4.8,
+  },
+];
+
+export default dishesData;

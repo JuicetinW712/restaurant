@@ -1,0 +1,30 @@
+body {
+  padding: 30px;
+}
+
+img {
+  width: 200px;
+}
+
+.card {
+  display: flex;
+}
+
+.card > * {
+  padding: 20px;
+}
+
+.bottom-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 200px;
+}
+
+.read-more-btn {
+  margin-top: auto;
+  width: 300px;
+}
+
+#image {
+  margin-bottom: 50px;
+}
