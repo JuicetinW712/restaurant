@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Showcase](https://imgur.com/jy8aOIx)
+![Showcase](https://i.imgur.com/jy8aOIx.gif)
 GIF created with ScreenToGif
 
 ## License
